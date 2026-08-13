@@ -1,0 +1,7 @@
+data/
+snapshot.json
+briefs/
+statements/
+promises.json
+__pycache__/
+.DS_Store
