@@ -29,7 +29,7 @@ The calculations are covered by 59 tests against a fixture ledger with hand-comp
 ## Install
 
 ```bash
-git clone https://github.com/PAIDNICE_ORG/paidnice-ar-skills.git
+git clone https://github.com/Denymbird/accounts-receivable-skills.git
 ```
 
 - **Claude Code**: copy `skills/accounts-receivable` into `.claude/skills/` in your project, or
